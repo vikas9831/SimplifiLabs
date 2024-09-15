@@ -105,6 +105,9 @@ This project uses the following dependencies:
 - tailwindcss
 - vite
 
+## Screenshots
+
+
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
