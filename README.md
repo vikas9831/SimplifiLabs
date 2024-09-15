@@ -1,8 +1,27 @@
-# React + Vite
+# Image Uploader App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+The Image Uploader App is a React application that allows users to upload images, view their details, and manage themes. The app features a simple interface for dragging and dropping or selecting images, previewing them, and displaying detailed information about the uploaded image.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Upload images with a file size limit of 1MB.
+- Preview images before uploading.
+- View details of the uploaded image including size, dimensions, and format.
+- Copy the image URL to the clipboard.
+- Toggle between light and dark themes.
+
+## Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16 or later)
+- [npm](https://www.npmjs.com/get-npm) (comes with Node.js)
+
+## Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/image-uploader-app.git
+cd image-uploader-app
+
