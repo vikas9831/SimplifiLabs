@@ -106,7 +106,15 @@ This project uses the following dependencies:
 - vite
 
 ## Screenshots
+![Screenshot 2024-09-15 170158](https://github.com/user-attachments/assets/d1d95479-966f-4f29-9191-7303896a4103)
 
+![Screenshot 2024-09-15 170207](https://github.com/user-attachments/assets/b9ddf003-ab1f-433b-9aae-85b84c5f6d0f)
+
+![Screenshot 2024-09-15 170229](https://github.com/user-attachments/assets/153c66a9-2fee-4b95-843c-b7773b009820)
+
+![Screenshot 2024-09-15 170239](https://github.com/user-attachments/assets/9178cd61-0ed0-44b2-8d87-9a1e87c10ad0)
+
+![Screenshot 2024-09-15 170244](https://github.com/user-attachments/assets/6b56f4f7-670e-4d7f-832d-6b8f43549fde)
 
 
 ## Contributing
