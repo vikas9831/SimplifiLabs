@@ -25,7 +25,7 @@ The Image Uploader App is a React application that allows users to upload images
 git clone https://github.com/your-username/image-uploader-app.git
 cd image-uploader-app
 
-### 2 .
+
 
  
  
